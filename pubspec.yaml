@@ -38,6 +38,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_sms: ^2.3.3
   permission_handler: ^10.2.0
+  telephony: ^0.2.0
+  flutter_switch: ^0.3.2
+  fluttertoast: ^8.1.1
 
 dev_dependencies:
   flutter_test:
